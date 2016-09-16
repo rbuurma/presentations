@@ -16,7 +16,7 @@ Yes Keanu. Woah indeed.
 
 ---
 
-# Bash
+# It's Not about the Digital
 
 ---
 
@@ -24,7 +24,7 @@ _or_
 
 ---
 
-## Why I Stopped Assigning Essays and Started Making and Breaking Things
+## new humanities, new sociologies, and the revolution in representation
 
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
