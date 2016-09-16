@@ -62,11 +62,11 @@ _or_
 
 ---
 
-## Why I Stopped Assigning Essays and Started Making and Breaking Things
+## When Machines Make Things More Ambiguous: digital humanities, new sociologies, and the representation revolution 
 
 <small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
 <br>
-<br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
+<br><small>Rachel Sagner Buurma, Dept of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 
 ---
 
