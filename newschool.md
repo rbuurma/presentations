@@ -26,7 +26,7 @@ _or_
 
 ## Why I Stopped Assigning Essays and Started Making and Breaking Things
 
-<small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
+<small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
 <br><small>Dr. Shawn Graham, Dept of History, Carleton [@electricarchaeo](http://twitter.com/electricarchaeo)</small>
 
