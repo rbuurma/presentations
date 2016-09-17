@@ -25,7 +25,7 @@ _or_
 
 ---
 
-## new humanities, new sociologies, and the revolution in representation
+## new humanities, new sociologies, and the revolution in representation ?
 
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
