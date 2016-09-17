@@ -1,11 +1,12 @@
 <div align="left">
-** Cottage **
+** In the beginning... **
 <br>
 
-`>`you are standing in a small cottage. There is a **fishing pole** here.
+> there was a quotation. 
 <br>
 
-Exits are: OUT
+And perhaps some more text. 
+
 </div>
 
 ---
@@ -48,9 +49,11 @@ _or_
 </section>
 ---
 
-![keanu](http://www.reactiongifs.com/wp-content/uploads/2013/10/woah.gif)
+If you have questions while I'm speaking, feel free to
 
-Yes Keanu. Woah indeed.
+![keanu](dograisinghand.gif)
+
+There was a .gif. 
 
 ---
 
