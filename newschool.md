@@ -35,14 +35,17 @@ _or_
 ![Bruce](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
 
 ---
-<div align = left>
-<section data-markdown>
-    <script type="text/template">
-        - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-        - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-    </script>
+<section>
+    <p class="fragment grow">grow</p>
+    <p class="fragment shrink">shrink</p>
+    <p class="fragment fade-out">fade-out</p>
+    <p class="fragment fade-up">fade-up (also down, left and right!)</p>
+    <p class="fragment current-visible">visible only once</p>
+    <p class="fragment highlight-current-blue">blue only once</p>
+    <p class="fragment highlight-red">highlight-red</p>
+    <p class="fragment highlight-green">highlight-green</p>
+    <p class="fragment highlight-blue">highlight-blue</p>
 </section>
-</div>
 ---
 
 ![keanu](http://www.reactiongifs.com/wp-content/uploads/2013/10/woah.gif)
