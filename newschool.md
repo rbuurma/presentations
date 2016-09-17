@@ -35,14 +35,14 @@ _or_
 ![Bruce](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
 
 ---
-
+<div>
 <section data-markdown>
     <script type="text/template">
         - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
         - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
     </script>
 </section>
-
+</div>
 ---
 
 ![keanu](http://www.reactiongifs.com/wp-content/uploads/2013/10/woah.gif)
