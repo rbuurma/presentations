@@ -35,7 +35,7 @@ _or_
 ![Bruce](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
 
 ---
-<div>
+<div align = left>
 <section data-markdown>
     <script type="text/template">
         - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
