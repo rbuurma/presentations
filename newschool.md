@@ -36,15 +36,12 @@ _or_
 
 ---
 
-<section data-background="<div align="left">
-** Cottage **
-<br>
-
-`>`you are standing in a small cottage. There is a **fishing pole** here.
-<br>
-
-Exits are: OUT
-</div>
+<section data-markdown>
+    <script type="text/template">
+        - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
+        - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
+    </script>
+</section>
 
 ---
 
