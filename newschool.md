@@ -56,6 +56,8 @@ _or_
 
 If you have questions while I'm speaking, feel free to
 
+
+
 ![raiseyourhand](dograisinghand.gif)
 
 ---
