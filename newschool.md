@@ -22,7 +22,7 @@ Yes Keanu. Woah indeed.
 
 ---
 
-# It's Not about the Digital
+# how to think about information like a humanist
 
 ---
 
@@ -38,7 +38,7 @@ _or_
 
 ---
 
-![Bruce](http://carleton.ca/history/wp-content/uploads/LUT6410-300px.jpg)
+![Tables of English Literature](BuurmaImage2.jpg)
 
 ---
 <section>
