@@ -16,9 +16,9 @@ And perhaps some more text.
 
 ---
 
-![keanu](http://www.reactiongifs.com/wp-content/uploads/2013/10/woah.gif)
+> I began by showing the average lengths of titles, but I then shifted to very long and very short titles -- and I did so because these trends are much more dramatic than the slow decline of the average, and thus also much easier to talk about. Which is not actually *wrong* (after all, these trends are real!), but, even aside from a question of completeness -- of the seven thousand titles in the study, around nine hundred are long, sixteen hundred short, and forty-five hundred somewhere in between -- the focus on extremes misses a decisive aspect of quantitative work: what really counts, here, are not a few major and rapid changes, but many small and slow ones. But the trouble is, we literary historians don't really know how to think about what is frequent and small and slow; that's what makes it so hard to study the literary field as a whole: we must learn to find meaning in small changes and slow processes -- and it's difficult.
 
-Yes Keanu. Woah indeed.
+-Franco Moretti, *Style, Inc*
 
 ---
 
@@ -56,9 +56,7 @@ _or_
 
 If you have questions while I'm speaking, feel free to
 
-![keanu](dograisinghand.gif)
-
-There was a .gif. 
+![raiseyourhand](dograisinghand.gif)
 
 ---
 
