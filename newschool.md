@@ -37,10 +37,8 @@ _or_
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 
 ---
-
 <section data-background="BuurmaImage2.jpg">
 </section>
-words words words
 ---
 <section>
     <p class="fragment grow">grow</p>
