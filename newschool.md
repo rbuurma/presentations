@@ -39,8 +39,8 @@ _or_
 ---
 
 <section data-background="BuurmaImage2.jpg">
-words words words
 </section>
+words words words
 ---
 <section>
     <p class="fragment grow">grow</p>
