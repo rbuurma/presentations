@@ -22,7 +22,7 @@ And perhaps some more text.
 
 ---
 
-# how to think about information like a humanist
+# how to think like a humanist about information
 
 ---
 
