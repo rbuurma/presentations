@@ -38,8 +38,8 @@ _or_
 
 ---
 
-![Tables of English Literature](BuurmaImage2.jpg)
-
+<section data-background="BuurmaImage2.jpg">
+</section>
 ---
 <section>
     <p class="fragment grow">grow</p>
@@ -55,8 +55,6 @@ _or_
 ---
 
 If you have questions while I'm speaking, feel free to
-
-
 
 ![raiseyourhand](dograisinghand.gif)
 
