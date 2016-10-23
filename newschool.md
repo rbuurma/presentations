@@ -40,7 +40,7 @@ If you have questions while I'm speaking, feel free to
 
 ![Werther topology](Werther.png)
 
-<small>[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge." In M Erlin M and L Tatlock eds, *Distant Readings: Topologies of German Culture in the Long Nineteenth Century*. Rochester, NY: Camden House, 2014.155–184.](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)</small>
+[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge." In M Erlin M and L Tatlock eds, *Distant Readings: Topologies of German Culture in the Long Nineteenth Century*. Rochester, NY: Camden House, 2014.155-184.</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
 
 ---
 
