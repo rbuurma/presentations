@@ -28,6 +28,7 @@ _or_
 
 ---
 <section data-background="BuurmaImage2.jpg">
+How to Think like a Humanist about Information
 </section>
 ---
 
