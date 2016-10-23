@@ -28,8 +28,9 @@ _or_
 
 ---
 <section data-background="BuurmaImage2.jpg">
-## How to Think like a Humanist about Information
-</section>
+<div align="right">
+How to Think like a Humanist about Information
+</div>
 ---
 
 If you have questions while I'm speaking, feel free to
