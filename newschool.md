@@ -38,11 +38,9 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-## When Machines Make Things More Ambiguous: digital humanities, new sociologies, and the representation revolution 
+https://github.com/rbuurma/presentations/blob/gh-pages/Werther.png
 
-<small>Follow along at [j.mp/sg-bash](http://j.mp/sg-bash)</small>
-<br>
-<br><small>Rachel Sagner Buurma, Dept of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
+[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge." In M Erlin M and L Tatlock eds, *Distant Readings: Topologies of German Culture in the Long Nineteenth Century*. Rochester, NY: Camden House, 2014.155–184.](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
 
 ---
 
