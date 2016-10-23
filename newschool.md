@@ -1,6 +1,7 @@
 ---
 
 <section data-background="BuurmaImage2.jpg">
+</section>
 
 ---
 
