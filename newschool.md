@@ -1,14 +1,4 @@
-<div align="left">
-** In the beginning... **
-<br>
-
-> there was a quotation. 
-
-<br>
-
-And perhaps some more text.
-
-</div>
+<section data-background="BuurmaImage2.jpg">
 
 ---
 
@@ -25,12 +15,6 @@ _or_
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
-
----
-<section data-background="BuurmaImage2.jpg">
-<div align="right">
-How to Think like a Humanist about Information
-</div>
 ---
 
 If you have questions while I'm speaking, feel free to
