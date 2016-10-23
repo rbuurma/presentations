@@ -38,7 +38,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-https://github.com/rbuurma/presentations/blob/gh-pages/Werther.png
+![Werther topology](https://github.com/rbuurma/presentations/blob/gh-pages/Werther.png)
 
 [Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge." In M Erlin M and L Tatlock eds, *Distant Readings: Topologies of German Culture in the Long Nineteenth Century*. Rochester, NY: Camden House, 2014.155–184.](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
 
