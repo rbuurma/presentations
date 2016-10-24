@@ -12,7 +12,7 @@ _or_
 
 ---
 
-## new humanities, new sociologies, and the revolution in representation ?
+## contingent models, counterfactual algorithms, and uncertain visualizations
 
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
@@ -25,12 +25,21 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Werther topology](Werther.png)
-
-[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge." In M Erlin M and L Tatlock eds, *Distant Readings: Topologies of German Culture in the Long Nineteenth Century*. Rochester, NY: Camden House, 2014.155-184.</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
+contingent models
 
 ---
 
+![Werther topology](Werther.png)
+
+[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge."</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
+
+---
+
+counterfactual algorithms
+
+---
+uncertain visualizations (or visualizing uncertainty)
+---
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
 </section>
