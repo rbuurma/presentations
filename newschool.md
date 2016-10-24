@@ -25,7 +25,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-contingent models
+# contingent models
 
 ---
 
@@ -35,10 +35,10 @@ contingent models
 
 ---
 
-counterfactual algorithms
+# counterfactual algorithms
 
 ---
-uncertain visualizations (or visualizing uncertainty)
+# uncertain visualizations (or visualizing uncertainty)
 ---
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
