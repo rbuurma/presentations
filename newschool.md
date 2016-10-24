@@ -83,6 +83,8 @@ Created by PJ Trainor in collaboration with the [Swarthmore College Victorian No
 [The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)
 
 ---
+lots and lots of footnotes in eighteenth-century novels
+---
 ![footnote1](footnote.tif)
 ---
 ![footnote2](footnote10_002280050100190.TIF)
@@ -99,9 +101,22 @@ Created by PJ Trainor in collaboration with the [Swarthmore College Victorian No
 ---
 ![footnote8](footnote9_005200120000170.TIF)
 ---
+![PiperTxtLabFootnoteDetectionImageDetail](PiperFootnoteDetection.png)
+---
+
+## visualizing uncertaintly, outliers, + diversity 
+
+---
+
+add toptime image here?
+
+---
+
+add favored traces here?
+
+---
 
 
-## uncertain visualizations (or visualizing uncertainty)
 
 ---
 <section data-background="eniacwomen.jpg">
