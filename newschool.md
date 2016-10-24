@@ -102,14 +102,14 @@ lots and lots of footnotes in eighteenth-century novels
 ![footnote8](footnote9_005200120000170.TIF)
 ---
 ![PiperTxtLabFootnoteDetectionImageDetail](PiperFootnoteDetection.png)
-from [Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)
+<small>from [Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)</small>
 ---
 
 ## visualizing uncertaintly, outliers, + diversity 
 
 ---
 
-add toptime image here?
+add topotime image here?
 
 ---
 
@@ -117,9 +117,32 @@ add favored traces here?
 
 ---
 
+![OSP1](OSPEnglishTop.png)
+
+---
+
+![OSP2](OSPEngish6.png)
+
+---
+
+![Kuntz page](Kuntz.png)
+<br>
+<br>
+![KuntzBrooks](KuntzBrooksdata.png)
+
+
+
+reusing analog indexes
 
 
 ---
+
+(your idea here)
+
+---
+
+new histories for thinking like a humanist about information
+
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
 </section>
