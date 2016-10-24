@@ -147,10 +147,11 @@ new histories for thinking like a humanist about information
 
 <section data-background="BuurmaImage2.jpg"></section>
 [Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
+</section>
 
 ---
 
-[Caroline Spurgeon, Shakespeare's Imagery (1930)](ShakespearesImagery.png)
+![Caroline Spurgeon, Shakespeare's Imagery (1930)](ShakespearesImagery.png)
 
 ---
 
@@ -162,7 +163,7 @@ Ann Blair, Leah Price, Robin Valenza, Richard Menke, Janine Barchas, Chad Wellmo
 
 ---
 
-![Shannon Mattern's class][Mattern1.png]
+![Shannon Mattern's class](Mattern1.png)
 
 Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
 
