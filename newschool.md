@@ -25,6 +25,18 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
+## some ways humanists think about information 
+
+---
+> Posner
+---
+> Underwood
+---
+![Mary Cassat The Stocking](TheStockingnypl.digitalcollections.7aa3aa10-4714-0130-994a-58d385a7b928.001.v.jpg)
+---
+![Stocking patent](brownstockingpatent.jpg)
+---
+
 ## contingent models: topology
 
 ---
