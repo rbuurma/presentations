@@ -83,7 +83,7 @@ Created by PJ Trainor in collaboration with the [Swarthmore College Victorian No
 [The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)
 
 ---
-![footnote1](footnote.TIF)
+![footnote1](footnote.tif)
 ---
 ![footnote2](footnote10_002280050100190.TIF)
 ---
