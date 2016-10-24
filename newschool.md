@@ -45,8 +45,8 @@ If you have questions while I'm speaking, feel free to
 New Histories of Humanistic Information
 </section>
 
-Note:
-You can't see this
+Note: no notes here
+
 ---
 
 > I began by showing the average lengths of titles, but I then shifted to very long and very short titles -- and I did so because these trends are much more dramatic than the slow decline of the average, and thus also much easier to talk about... But the trouble is, we literary historians don't really know how to think about what is frequent and small and slow; that's what makes it so hard to study the literary field as a whole: we must learn to find meaning in small changes and slow processes -- and it's difficult.
