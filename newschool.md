@@ -121,7 +121,7 @@ add favored traces here?
 
 ---
 
-![OSP2](OSPEngish6.png)
+![OSP2](OSPEnglish6.png)
 
 ---
 
@@ -143,8 +143,33 @@ reusing analog indexes
 
 new histories for thinking like a humanist about information
 
+---
+
+<section data-background="BuurmaImage2.jpg"></section>
+[Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
+
+---
+
+[Caroline Spurgeon, Shakespeare's Imagery (1930)](ShakespearesImagery.png)
+
+---
+
+Rickert?
+
+---
+
+Ann Blair, Leah Price, Robin Valenza, Richard Menke, Janine Barchas, Chad Wellmon
+
+---
+
+![Shannon Mattern's class][Mattern1.png]
+
+Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
+
+---
+
 <section data-background="eniacwomen.jpg">
-New Histories of Humanistic Information
+fin fin fin 
 </section>
 
 ---
