@@ -37,28 +37,30 @@ If you have questions while I'm speaking, feel free to
 
 > ...reading topologically illustrates the way a contingent object brings into view a contingent environment, which is then used recursively to interpret that initial object. Not only are there other Wertherisms lurking in our topology waiting to be uncovered; there are other Wertherisms waiting to be brought to light when we model Werther differently. 
 
-Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8
+[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8]((http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf))
 
 ---
 
 ## counterfactual algorithms: topic modeling
 
 ---
+![Mimno Jockers topics](MimnoJockers500topics.png")
+[David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
 
-<section data-background="eniacwomen.jpg">
-New Histories of Humanistic Information
-</section>
+Note: no notes here
 
 ---
+
+![Barchester topics](Barchester_topics.png)
+
+![Barchester_some_topics_in_docs_highlighted.png](Barchester_some_topics_in_docs_highlighted.png)
 
 ## uncertain visualizations (or visualizing uncertainty)
 
 ---
-<section data-background="MimnoJockers500topics.png">
-[David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
+<section data-background="eniacwomen.jpg">
+New Histories of Humanistic Information
 </section>
-
-Note: no notes here
 
 ---
 
