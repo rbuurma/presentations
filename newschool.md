@@ -39,7 +39,9 @@ contingent models
 counterfactual algorithms
 
 ---
+
 uncertain visualizations (or visualizing uncertainty)
+
 ---
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
