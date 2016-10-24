@@ -6,6 +6,7 @@
 
 # how to think like a humanist about information
 
+
 ---
 
 _or_
