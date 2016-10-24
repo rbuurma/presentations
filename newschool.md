@@ -4,7 +4,7 @@
 
 ---
 
-# how to think like a humanist about information
+how to think like a humanist about information
 
 
 ---
@@ -13,7 +13,7 @@ _or_
 
 ---
 
-## contingent models, counterfactual algorithms, and uncertain visualizations
+contingent models, counterfactual algorithms, and uncertain visualizations
 
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
@@ -26,7 +26,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-# contingent models
+contingent models
 
 ---
 
@@ -36,10 +36,10 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-# counterfactual algorithms
+counterfactual algorithms
 
 ---
-# uncertain visualizations (or visualizing uncertainty)
+uncertain visualizations (or visualizing uncertainty)
 ---
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
