@@ -102,6 +102,7 @@ lots and lots of footnotes in eighteenth-century novels
 ![footnote8](footnote9_005200120000170.TIF)
 ---
 ![PiperTxtLabFootnoteDetectionImageDetail](PiperFootnoteDetection.png)
+from [Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)
 ---
 
 ## visualizing uncertaintly, outliers, + diversity 
