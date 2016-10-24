@@ -60,9 +60,46 @@ Note: no notes here
 
 ![Barsetshire viz](Barsetshire.png)
 [Visualization of very handmade topics in Anthony Trollope's The Barsetshire Chronicles](http://trainorpj.github.io/barsetshire-series/)
+<br>
+<br>
 Created by PJ Trainor in collaboration with the [Swarthmore College Victorian Novels Research Seminar](http://vic-sem-2016.github.io/) and [Nabil Kashyap](http://www.nabilk.com/)
 
+---
+
+## supervised machine learning 
+
+---
+
 ## humans and machines looking at pages: visual image processing
+
+---
+
+![Redacted](SherrattRedacted.png)
+[Tim Sherratt's Open with Exception project](owebrowse.herokuapp.com)
+
+---
+
+![In Memoriam page](InMem.png)
+[The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)
+
+---
+![footnote1](footnote.TIF)
+---
+![footnote2](footnote10_002280050100190.TIF)
+---
+![footnote3](footnote11_001910020302920.TIF)
+---
+![footnote4](footnote4.TIF)
+---
+![footnote5](footnote5032710140001830.TIF)
+---
+![footnote6](footnote6032710140000880.TIF)
+---
+![footnote7](footnote7_026840010300120.TIF)
+---
+![footnote8](footnote9_005200120000170.TIF)
+---
+
 
 ## uncertain visualizations (or visualizing uncertainty)
 
