@@ -12,7 +12,7 @@ _or_
 
 ---
 
-# contingent models, counterfactual algorithms, and uncertain visualizations
+## contingent models, counterfactual algorithms, and uncertain visualizations
 
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
@@ -25,7 +25,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-# contingent models
+## contingent models: topology
 
 ---
 
@@ -35,15 +35,27 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-# counterfactual algorithms
+> ...reading topologically illustrates the way a contingent object brings into view a contingent environment, which is then used recursively to interpret that initial object. Not only are there other Wertherisms lurking in our topology waiting to be uncovered; there are other Wertherisms waiting to be brought to light when we model Werther differently. 
+
+Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8
 
 ---
 
-# uncertain visualizations (or visualizing uncertainty)
+## counterfactual algorithms: topic modeling
 
 ---
+
 <section data-background="eniacwomen.jpg">
 New Histories of Humanistic Information
+</section>
+
+---
+
+## uncertain visualizations (or visualizing uncertainty)
+
+---
+<section data-background="MimnoJockers500topics.png">
+[David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
 </section>
 
 Note: no notes here
