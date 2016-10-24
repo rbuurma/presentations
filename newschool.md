@@ -44,7 +44,7 @@ If you have questions while I'm speaking, feel free to
 ## counterfactual algorithms: topic modeling
 
 ---
-![Mimno Jockers topics](MimnoJockers500topics.png")
+![Mimno Jockers topics](MimnoJockers500topics.png)
 [David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
 
 Note: no notes here
@@ -52,8 +52,17 @@ Note: no notes here
 ---
 
 ![Barchester topics](Barchester_topics.png)
-
+<br>
+<br>
 ![Barchester_some_topics_in_docs_highlighted.png](Barchester_some_topics_in_docs_highlighted.png)
+
+---
+
+![Barsetshire viz](Barsetshire.png)
+[Visualization of very handmade topics in Anthony Trollope's The Barsetshire Chronicles](http://trainorpj.github.io/barsetshire-series/)
+Created by PJ Trainor in collaboration with the [Swarthmore College Victorian Novels Research Seminar](http://vic-sem-2016.github.io/) and [Nabil Kashyap](http://www.nabilk.com/)
+
+## humans and machines looking at pages: visual image processing
 
 ## uncertain visualizations (or visualizing uncertainty)
 
