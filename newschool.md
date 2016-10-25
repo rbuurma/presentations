@@ -151,7 +151,7 @@ lots and lots of footnotes in eighteenth-century novels
 ---
 ![PiperTxtLabFootnoteDetectionImageDetail](PiperFootnoteDetection.png)
 
-<small>[Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)</small>
+[<small>Andrew Piper, "Footnote Detection," .txtLab@McGill blog</small>](http://txtlab.org/?p=395)
 ---
 
 ## visualizing uncertainty, outliers, + diversity 
@@ -185,7 +185,7 @@ reusing analog indexes
 
 ---
 
-new histories for thinking like a humanist about information
+## new histories for thinking like a humanist about information
 
 ---
 
