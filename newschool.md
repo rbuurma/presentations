@@ -24,7 +24,7 @@ _or_
 
 ---
 
-> > When you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with.
+> When you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with.
 
 <small>Miriam Posner, ["Humanities Data: A Necessary Contradiction"](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)</small>
 
@@ -52,15 +52,28 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
+> We are interested in the extent to which the language of a particular work or concept...circulates within a given environment and structures a given literay field. Rather than look at only those works that claim to be Wertherian, we are interested in mapping Werther's discursive presence in a more diffuse, less explicit sense.
+
+[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge."</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
+---
+
+
+![Werther topology](Werther.png)
+
+[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge."</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
+
+---
+
 > ...reading topologically illustrates the way a contingent object brings into view a contingent environment, which is then used recursively to interpret that initial object. Not only are there other Wertherisms lurking in our topology waiting to be uncovered; there are other Wertherisms waiting to be brought to light when we model Werther differently. 
 
-<small>[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)</small>
+[<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge."</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
 
 ---
 
 ## counterfactual algorithms: topic modeling
 
 ---
+
 ![Mimno Jockers topics](MimnoJockers500topics.png)
 [David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
 
