@@ -191,10 +191,6 @@ new histories for thinking like a humanist about information
 
 ---
 
-Rickert?
-
----
-
 Ann Blair, Leah Price, Robin Valenza, Richard Menke, Janine Barchas, Chad Wellmon
 
 ---
@@ -206,9 +202,9 @@ Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
 ---
 
 <section data-background="eniacwomen.jpg">
-fin fin fin 
+<bold>fin fin fin</bold>
 </section>
 
 ---
 
-<small>[Link to Sources for Images; all CC.]()</small>
+<small>[Link to Sources for Images]()</small>
