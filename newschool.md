@@ -109,21 +109,21 @@ Created by PJ Trainor in collaboration with the [Swarthmore College Victorian No
 ---
 lots and lots of footnotes in eighteenth-century novels
 ---
-![footnote1](footnote.tif)
+![footnote1](footnote1.jpg)
 ---
-![footnote2](footnote10_002280050100190.TIF)
+![footnote2](footnote2.jpg)
 ---
-![footnote3](footnote11_001910020302920.TIF)
+![footnote3](footnote3.jpg)
 ---
-![footnote4](footnote4.TIF)
+![footnote4](footnote4.jpg)
 ---
-![footnote5](footnote5032710140001830.TIF)
+![footnote5](footnote5.jpg)
 ---
-![footnote6](footnote6032710140000880.TIF)
+![footnote6](footnote6.jpg)
 ---
-![footnote7](footnote7_026840010300120.TIF)
+![footnote7](footnote7.jpg)
 ---
-![footnote8](footnote9_005200120000170.TIF)
+![footnote8](footnote8.jpg)
 ---
 ![PiperTxtLabFootnoteDetectionImageDetail](PiperFootnoteDetection.png)
 <small>from [Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)</small>
