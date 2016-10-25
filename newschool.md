@@ -61,7 +61,7 @@ If you have questions while I'm speaking, feel free to
 
 > ...reading topologically illustrates the way a contingent object brings into view a contingent environment, which is then used recursively to interpret that initial object. Not only are there other Wertherisms lurking in our topology waiting to be uncovered; there are other Wertherisms waiting to be brought to light when we model Werther differently. 
 
-[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8]((http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf))
+<small>[Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I," 8](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)</small>
 
 ---
 
@@ -104,7 +104,8 @@ Created by PJ Trainor in collaboration with the [Swarthmore College Victorian No
 ---
 
 ![In Memoriam page](InMem.png)
-[The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)
+
+<small>[The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)</small>
 
 ---
 lots and lots of footnotes in eighteenth-century novels
@@ -170,8 +171,8 @@ new histories for thinking like a humanist about information
 ---
 
 <section data-background="BuurmaImage2.jpg"></section>
-[Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
-</section>
+<bold>[Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
+</bold>
 
 ---
 
@@ -197,24 +198,6 @@ Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
 fin fin fin 
 </section>
 
----
-
-> I began by showing the average lengths of titles, but I then shifted to very long and very short titles -- and I did so because these trends are much more dramatic than the slow decline of the average, and thus also much easier to talk about... But the trouble is, we literary historians don't really know how to think about what is frequent and small and slow; that's what makes it so hard to study the literary field as a whole: we must learn to find meaning in small changes and slow processes -- and it's difficult.
-
--Franco Moretti, *Style, Inc*
-
----
-<section>
-    <p class="fragment grow">grow</p>
-    <p class="fragment shrink">shrink</p>
-    <p class="fragment fade-out">fade-out</p>
-    <p class="fragment fade-up">fade-up (also down, left and right!)</p>
-    <p class="fragment current-visible">visible only once</p>
-    <p class="fragment highlight-current-blue">blue only once</p>
-    <p class="fragment highlight-red">highlight-red</p>
-    <p class="fragment highlight-green">highlight-green</p>
-    <p class="fragment highlight-blue">highlight-blue</p>
-</section>
 ---
 
 <small>[Link to Sources for Images; all CC.]()</small>
