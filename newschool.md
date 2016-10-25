@@ -193,8 +193,7 @@ reusing analog indexes
 ---
 
 <section data-background="BuurmaImage2.jpg"></section>
-<bold>[Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
-</bold>
+## [Henry Morley, Tables of English Literature (1870)](https://catalog.hathitrust.org/Record/001397737/Home)
 
 ---
 
