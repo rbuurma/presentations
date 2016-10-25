@@ -152,7 +152,7 @@ lots and lots of footnotes in eighteenth-century novels
 <small>from [Andrew Piper, "Footnote Detection," .txtLab@McGill blog](http://txtlab.org/?p=395)</small>
 ---
 
-## visualizing uncertaintly, outliers, + diversity 
+## visualizing uncertainty, outliers, + diversity 
 
 ---
 
