@@ -74,6 +74,12 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
+![Blei LDA image](Blei_lda_illustration.png)
+
+[<small>David Blei, "Probabilistic Topic Models"</small>](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
+
+---
+
 ![Barchester topics](Barchester_topics.png)
 <br>
 <br>
@@ -87,17 +93,18 @@ If you have questions while I'm speaking, feel free to
 
 [<small>Teddy Roland, "Topic Modeling: What Humanists Actually Do With It"</small>](http://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
+[<small>David Mimno, "The Details"</small>](https://vimeo.com/53080123)
+
 Note: no notes here
 
 ---
-
 
 
 ![Barsetshire viz](Barsetshire.png)
 [Visualization of very handmade topics in Anthony Trollope's The Barsetshire Chronicles](http://trainorpj.github.io/barsetshire-series/)
 <br>
 <br>
-Created by PJ Trainor in collaboration with the [Swarthmore College Victorian Novels Research Seminar](http://vic-sem-2016.github.io/) and [Nabil Kashyap](http://www.nabilk.com/)
+<small>Created by PJ Trainor in collaboration with the [Swarthmore College Victorian Novels Research Seminar](http://vic-sem-2016.github.io/) and [Nabil Kashyap](http://www.nabilk.com/)</small>
 
 ---
 
