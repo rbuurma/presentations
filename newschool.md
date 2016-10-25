@@ -74,19 +74,24 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Mimno Jockers topics](MimnoJockers500topics.png)
-[David Mimno and Matt Jockers, 500 topics in ~3000 novels](https://mimno.infosci.cornell.edu/novels/plot.html)
-
-Note: no notes here
-
----
-
 ![Barchester topics](Barchester_topics.png)
 <br>
 <br>
 ![Barchester_some_topics_in_docs_highlighted.png](Barchester_some_topics_in_docs_highlighted.png)
 
 ---
+
+[<small>Lisa Rhody, "Topic Modeling and Figurative Language"</small>](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
+
+[<small>David Mimno and Matt Jockers, 500 topics in ~3000 novels</small>](https://mimno.infosci.cornell.edu/novels/plot.html)
+
+[<small>Teddy Roland, "Topic Modeling: What Humanists Actually Do With It"</small>](http://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
+
+Note: no notes here
+
+---
+
+
 
 ![Barsetshire viz](Barsetshire.png)
 [Visualization of very handmade topics in Anthony Trollope's The Barsetshire Chronicles](http://trainorpj.github.io/barsetshire-series/)
