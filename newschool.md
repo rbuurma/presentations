@@ -52,7 +52,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-> We are interested in the extent to which the language of a particular work or concept...circulates within a given environment and structures a given literay field. Rather than look at only those works that claim to be Wertherian, we are interested in mapping Werther's discursive presence in a more diffuse, less explicit sense.
+> We are interested in the extent to which the language of a particular work or concept...circulates within a given environment and structures a given literary field. Rather than look at only those works that claim to be Wertherian, we are interested in mapping Werther's discursive presence in a more diffuse, less explicit sense.
 
 [<small>Andrew Piper and Mark Algee-Hewitt, "The Werther Effect I: Goethe, Objecthood, and the Handling of Knowledge."</small>](http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf)
 
