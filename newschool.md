@@ -156,14 +156,6 @@ lots and lots of footnotes in eighteenth-century novels
 
 ---
 
-add topotime image here?
-
----
-
-add favored traces here?
-
----
-
 ![OSP1](OSPEnglishTop.png)
 
 ---
@@ -177,10 +169,7 @@ add favored traces here?
 <br>
 ![KuntzBrooks](KuntzBrooksdata.png)
 
-
-
 reusing analog indexes
-
 
 ---
 
