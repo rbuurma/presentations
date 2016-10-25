@@ -17,11 +17,6 @@ _or_
 <small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
----
-
-If you have questions while I'm speaking, feel free to
-
-![raiseyourhand](dograisinghand.gif)
 
 ---
 
@@ -35,19 +30,17 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-> In the twentieth century, the difficulty of representing unstructured text divided the quantitative social sciences from the humanities. Sociologists could use numbers to understand social mobility or inequality, but they had a hard time connecting those equations to the larger and richer domain of human discourse. Over the last twenty years, that barrier has fallen. A theory of learning that emphasizes generalization has shown researchers how to train models that have thousands of variables without creating the false precision called “overfitting.” That conceptual advance would be interesting in itself. But it also allows researchers to include qualitative evidence like text in a quantitative model by the simple expedient of using lots of variables (say, one for each word).Social scientists can now connect structured social evidence to loosely structured texts or images or sounds, and they’re discovering that this connection opens up fascinating questions. Humanists are discovering the same thing.
+> In the twentieth century, the difficulty of representing unstructured text divided the quantitative social sciences from the humanities. Sociologists could use numbers to understand social mobility or inequality, but they had a hard time connecting those equations to the larger and richer domain of human discourse. Over the last twenty years, that barrier has fallen. A theory of learning that emphasizes generalization has shown researchers how to train models that have thousands of variables without creating the false precision called "overfitting." That conceptual advance would be interesting in itself. But it also allows researchers to include qualitative evidence like text in a quantitative model by the simple expedient of using lots of variables (say, one for each word).Social scientists can now connect structured social evidence to loosely structured texts or images or sounds, and they’re discovering that this connection opens up fascinating questions. Humanists are discovering the same thing.
 
 <small> Ted Underwood, ["Distant Reading and Recent Intellectual History,"](http://dhdebates.gc.cuny.edu/debates/text/95) Debates in DH</small>
 
 ---
 
-![Mary Cassat The Stocking](TheStockingnypl.digitalcollections.7aa3aa10-4714-0130-994a-58d385a7b928.001.v.jpg)
+If you have questions while I'm speaking, feel free to
 
----
+![raiseyourhand](dograisinghand.gif)
 
-![Stocking patent](brownstockingpatent.jpg)
-
----
+ ---
 
 ## contingent models: topology
 
