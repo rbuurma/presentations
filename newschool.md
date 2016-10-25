@@ -156,6 +156,12 @@ lots and lots of footnotes in eighteenth-century novels
 
 ---
 
+![Favored Traces](FavoredTraces.png)
+
+<small>Ben Fry, [The Preservation of Favoured Traces](https://fathom.info/traces/)</small>
+
+---
+
 ![OSP1](OSPEnglishTop.png)
 
 ---
