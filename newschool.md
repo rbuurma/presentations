@@ -211,9 +211,8 @@ Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
 
 ---
 
-<section data-background="eniacwomen.jpg">
+<section data-background="eniacwomen.jpg"></section>
 ## fin fin fin
-</section>
 
 ---
 
