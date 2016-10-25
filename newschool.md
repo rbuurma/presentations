@@ -117,10 +117,6 @@ Note: no notes here
 
 ---
 
-50,000 foonotes in 10,000 novels
-
-<small>work in progress by Rachel Sagner Buurma, Sierra Eckert and Nick Allred, in collaboration with Andrew Piper at McGill's txtLab and Ehsan Arabnejad at Montréal’s ETS  Synchromedia Lab (directed by Mohamed Cheriet)</small>
-
 ![Redacted](SherrattRedacted.png)
 [Tim Sherratt's Open with Exception project](owebrowse.herokuapp.com)
 
@@ -131,6 +127,13 @@ Note: no notes here
 <small>[The Visual Page Project, Neal Audenaert and Natalie M. Houston](http://nmhouston.com/visual-page/)</small>
 
 ---
+
+50,000 foonotes in 10,000 novels
+
+<small>work in progress by Rachel Sagner Buurma, Sierra Eckert and Nick Allred, in collaboration with Andrew Piper at McGill's txtLab and Ehsan Arabnejad at Montreal’s ETS  Synchromedia Lab (directed by Mohamed Cheriet)</small>
+
+---
+
 lots and lots of footnotes in eighteenth-century novels
 ---
 ![footnote1](footnote1.jpg)
@@ -210,7 +213,7 @@ Shannon Mattern, Bookshelves to Big Data: Archeologies of Knowledge
 ---
 
 <section data-background="eniacwomen.jpg">
-<bold>fin fin fin</bold>
+## fin fin fin
 </section>
 
 ---
