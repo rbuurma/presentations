@@ -116,6 +116,10 @@ Note: no notes here
 
 ---
 
+50,000 foonotes in 10,000 novels
+
+<small>work in progress by Rachel Sagner Buurma, Sierra Eckert and Nick Allred, in collaboration with Andrew Piper at McGill's txtLab and Ehsan Arabnejad at Montréal’s ETS  Synchromedia Lab (directed by Mohamed Cheriet)</small>
+
 ![Redacted](SherrattRedacted.png)
 [Tim Sherratt's Open with Exception project](owebrowse.herokuapp.com)
 
