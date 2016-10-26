@@ -202,7 +202,7 @@ Transforming printed 20th c reference tools into digital tabular data.
 
 ---
 
-Ann Blair, Leah Price, Robin Valenza, Richard Menke, Janine Barchas, Chad Wellmon
+Janine Barchas, Ann Blair, Richard Menke, Leah Price, Robin Valenza, Chad Wellmon
 
 ---
 
