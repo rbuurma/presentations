@@ -206,7 +206,7 @@ Transforming printed 20th c reference tools into digital tabular data.
 
 ---
 
-![Edith Rickert, New Methods Twain](Rickert_283_visualpage.png)
+![Edith Rickert, New Methods Twain](Rickert_285_visualpage.png)
 
 ---
 
