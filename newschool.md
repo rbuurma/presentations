@@ -176,6 +176,9 @@ lots and lots of footnotes in eighteenth-century novels
 
 ---
 
+![Eliot syllabus page](Eliot_Southall_syllabus_1_4.jpg)
+<small>document from in progress project, Rachel Sagner Buurma and Laura Heffernan, The Teaching Archive: A New History of Literary Study</small>
+
 ![Kuntz page](Kuntz.png)
 
 ---
