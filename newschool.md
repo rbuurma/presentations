@@ -176,11 +176,12 @@ lots and lots of footnotes in eighteenth-century novels
 ---
 
 ![Kuntz page](Kuntz.png)
-<br>
-<br>
+
+---
+
 ![KuntzBrooks](KuntzBrooksdata.png)
 
-reusing analog indexes
+Transforming printed 20th c reference tools into digital tabular data. 
 
 ---
 
