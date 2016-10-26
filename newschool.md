@@ -168,6 +168,7 @@ lots and lots of footnotes in eighteenth-century novels
 ---
 
 ![OSP1](OSPEnglishTop.png)
+<small>from the [Syllabus Explorer](http://explorer.opensyllabusproject.org/), [Open Syllabus Project](http://opensyllabusproject.org/)</small>
 
 ---
 
