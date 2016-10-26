@@ -130,7 +130,7 @@ Note: no notes here
 
 50,000 foonotes in 10,000 novels
 
-<small>work in progress by Rachel Sagner Buurma, Sierra Eckert and Nick Allred, in collaboration with Andrew Piper at McGill's txtLab and Ehsan Arabnejad at Montreal’s ETS  Synchromedia Lab (directed by Mohamed Cheriet)</small>
+<small>work in progress by Rachel Sagner Buurma, Sierra Eckert (Columbia) and Nick Allred (Rutgers), in collaboration with Andrew Piper (McGill) at McGill's .txtLab and Ehsan Arabnejad at Montreal’s ETS  Synchromedia Lab</small>
 
 ---
 
