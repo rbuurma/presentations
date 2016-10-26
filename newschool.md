@@ -202,6 +202,14 @@ Transforming printed 20th c reference tools into digital tabular data.
 
 ---
 
+![Edith Rickert, New Methods Merrett](Rickert_283_visualpage.png)
+
+---
+
+![Edith Rickert, New Methods Twain](Rickert_283_visualpage.png)
+
+---
+
 Janine Barchas, Ann Blair, Richard Menke, Leah Price, Robin Valenza, Chad Wellmon
 
 ---
