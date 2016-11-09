@@ -190,7 +190,7 @@ Transforming printed 20th c reference tools into digital tabular data.
 
 ---
 
-## new histories for thinking like a humanist about information
+## new histories for literature and information 
 
 ---
 
