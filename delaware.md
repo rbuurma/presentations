@@ -5,7 +5,7 @@
 
 ## Literary Information: Contingent Models, Counterfactual Algorithms, and Uncertain Visualizations
 
-<small>Follow along at [rbuurma.github.io/presentations/newschool.html](http://theotherdh.com/presentations/newschool.html)</small>
+<small>Follow along at [rbuurma.github.io/presentations/delaware.html](http://theotherdh.com/presentations/delaware.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 
