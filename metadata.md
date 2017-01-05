@@ -18,6 +18,15 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
+<section>
+					<section id="fragments">
+						<h2>types of metadata</h2>
+						<p>descriptive metadata</p>
+						<p structural metadata</p>
+						<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
+
+					</section>
+
 ## represent or reference?
 
 ---
