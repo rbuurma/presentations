@@ -1,4 +1,4 @@
-<section data-background="BuurmaImage2.jpg"></section>
+<section data-background="END246.png"></section>
 
 ---
 
@@ -24,6 +24,10 @@ If you have questions while I'm speaking, feel free to
 ## administrative metadata etc
 ---
 ## singularity or standardization?
+
+---
+
+![500note](END500note.png)
 
 ---
 
