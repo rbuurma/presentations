@@ -17,24 +17,17 @@ If you have questions while I'm speaking, feel free to
 ![raiseyourhand](dograisinghand.gif)
 
 ---
-
-<section>
-					<section id="fragments">
-						<h2>types of metadata</h2>
-						<p>descriptive metadata</p>
-						<p structural metadata</p>
-						<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
-
-					</section>
-
-## represent or reference?
+## descriptive metadata
+---
+## structural metadata
+---
+## administrative metadata etc
+---
+## singularity or standardization?
 
 ---
 
-> When you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with.
-
-<small>Miriam Posner, ["Humanities Data: A Necessary Contradiction"](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)</small>
-
+## representation or reference?
 
 ---
 
