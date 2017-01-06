@@ -21,7 +21,7 @@ If you have questions while I'm speaking, feel free to
 
 <section data-background="END500notes.png"></section>
 
---
+---
 
 ## structural metadata
 ---
