@@ -11,12 +11,10 @@
 If you have questions while I'm speaking, feel free to
 
 ![raiseyourhand](dograisinghand.gif)
-
 ---
 ## descriptive metadata
 ---
 <section data-background="END246.png"></section>
-
 ---
 
 <section data-background="END500notes.png"></section>
@@ -32,11 +30,6 @@ If you have questions while I'm speaking, feel free to
 ---
 
 ## representation or reference?
-
----
-
-<section data-background="END246.png"></section>
-## fin fin fin
 
 ---
 
