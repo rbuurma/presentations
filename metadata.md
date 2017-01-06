@@ -1,4 +1,3 @@
-<section data-background="END246.png"></section>
 
 ---
 
@@ -19,6 +18,14 @@ If you have questions while I'm speaking, feel free to
 ---
 ## descriptive metadata
 ---
+<section data-background="END246.png"></section>
+
+---
+
+![500note](END500note.png)
+
+--
+
 ## structural metadata
 ---
 ## administrative metadata etc
@@ -27,15 +34,11 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![500note](END500note.png)
-
----
-
 ## representation or reference?
 
 ---
 
-<section data-background="eniacwomen.jpg"></section>
+<section data-background="END246.png"></section>
 ## fin fin fin
 
 ---
