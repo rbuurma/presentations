@@ -22,7 +22,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![500note](END500note.png)
+![500note](END500notes.png)
 
 --
 
