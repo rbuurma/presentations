@@ -19,7 +19,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![500note](END500notes.png)
+<section data-background="END500notes.png"></section>
 
 --
 
