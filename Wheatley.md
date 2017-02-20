@@ -50,7 +50,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley6](WheatleyImages/image6.png")
+![Wheatley6](WheatleyImages/image6.png)
 
 ---
 
@@ -81,7 +81,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley13](WheatleyImages/image13.png)
+![Wheatley13](WheatleyImages/image13.jpg)
 
 ---
 
