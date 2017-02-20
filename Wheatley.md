@@ -17,7 +17,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley1](https://github.com/rbuurma/presentations/blob/gh-pages/WheatleyImages/image1.jpg)
+![Wheatley1](WheatleyImages/image1.jpg)
 
 ---
 
