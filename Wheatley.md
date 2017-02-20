@@ -25,7 +25,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley2](WheatleyImages/image2.jpg)
+![Wheatley2](WheatleyImages/image2.png)
 
 ---
 
@@ -34,15 +34,15 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image3.jpg"></section>
+<section data-background="WheatleyImages/image3.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image4.jpg"></section>
+<section data-background="WheatleyImages/image4.JPG"></section>
 
 ---
 
-<section data-background="WheatleyImages/image5.jpg"></section>
+<section data-background="WheatleyImages/image5.png"></section>
 
 ---
 
@@ -50,7 +50,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image6.jpg"></section>
+<section data-background="WheatleyImages/image6.png"></section>
 
 ---
 
@@ -66,39 +66,39 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image9.jpg"></section>
+<section data-background="WheatleyImages/image9.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image10.jpg"></section>
+<section data-background="WheatleyImages/image10.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image11.jpg"></section>
+<section data-background="WheatleyImages/image11.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image12.jpg"></section>
+<section data-background="WheatleyImages/image12.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image13.jpg"></section>
+<section data-background="WheatleyImages/image13.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image14.jpg"></section>
+<section data-background="WheatleyImages/image14.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image15.jpg"></section>
+<section data-background="WheatleyImages/image15.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image16.jpg"></section>
+<section data-background="WheatleyImages/image16.png"></section>
 
 ---
 
-<section data-background="WheatleyImages/image17.jpg"></section>
+<section data-background="WheatleyImages/image17.png"></section>
 
 ---
 
@@ -110,7 +110,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image20.jpg"></section>
+<section data-background="WheatleyImages/image20.png"></section>
 
 ---
 
