@@ -34,15 +34,15 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image3.png"></section>
+![Wheatley3](WheatleyImages/image3.png)
 
 ---
 
-<section data-background="WheatleyImages/image4.JPG"></section>
+![Wheatley4](WheatleyImages/image4.JPG)
 
 ---
 
-<section data-background="WheatleyImages/image5.png"></section>
+![Wheatley5](WheatleyImages/image5.png)
 
 ---
 
@@ -50,7 +50,7 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image6.png"></section>
+![Wheatley6](WheatleyImages/image6.png")
 
 ---
 
@@ -58,79 +58,78 @@ If you have questions while I'm speaking, feel free to
 
 ---
 
-<section data-background="WheatleyImages/image7.jpg"></section>
+![Wheatley7](WheatleyImages/image7.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image8.jpg"></section>
+![Wheatley8](WheatleyImages/image8.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image9.png"></section>
+![Wheatley9](WheatleyImages/image9.png)
 
 ---
 
-<section data-background="WheatleyImages/image10.png"></section>
+![Wheatley10](WheatleyImages/image10.png)
 
 ---
 
-<section data-background="WheatleyImages/image11.png"></section>
+![Wheatley11](WheatleyImages/image11.png)
+---
+
+![Wheatley12](WheatleyImages/image12.png)
 
 ---
 
-<section data-background="WheatleyImages/image12.png"></section>
+![Wheatley13](WheatleyImages/image13.png)
 
 ---
 
-<section data-background="WheatleyImages/image13.png"></section>
+![Wheatley14](WheatleyImages/image14.png)
 
 ---
 
-<section data-background="WheatleyImages/image14.png"></section>
+![Wheatley15](WheatleyImages/image15.png)
 
 ---
 
-<section data-background="WheatleyImages/image15.png"></section>
+![Wheatley16](WheatleyImages/image16.png)
 
 ---
 
-<section data-background="WheatleyImages/image16.png"></section>
+![Wheatley17](WheatleyImages/image17.png)
 
 ---
 
-<section data-background="WheatleyImages/image17.png"></section>
+![Wheatley18](WheatleyImages/image18.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image18.jpg"></section>
+![Wheatley19](WheatleyImages/image19.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image19.jpg"></section>
+![Wheatley20](WheatleyImages/image20.png)
 
 ---
 
-<section data-background="WheatleyImages/image20.png"></section>
+![Wheatley2](WheatleyImages/image21.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image21.jpg"></section>
+![Wheatley22](WheatleyImages/image22.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image22.jpg"></section>
+![Wheatley23](WheatleyImages/image23.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image23.jpg"></section>
+![Wheatley24](WheatleyImages/image24.jpg)
 
 ---
 
-<section data-background="WheatleyImages/image24.jpg"></section>
-
----
-
-<section data-background="WheatleyImages/image25.jpg"></section>
+![Wheatley25](WheatleyImages/image25.jpg)
 
 ---
 
