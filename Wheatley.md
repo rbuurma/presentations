@@ -5,7 +5,7 @@
 
 ## Henry Wheatley's General Index: Knowledge Organization, Fictional Representation, and Information Utopianism in the 1870s
 
-<small>Follow along at [rbuurma.github.io/presentations/delaware.html](http://theotherdh.com/presentations/Wheatley.html)</small>
+<small>Follow along at [rbuurma.github.io/presentations/Wheatley.html](http://theotherdh.com/presentations/Wheatley.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 
