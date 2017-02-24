@@ -56,11 +56,11 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-![Wheatley8](WheatleyImages/ReadePortrait.jpg)
+![ReadePortrait](WheatleyImages/ReadePortrait.jpg)
 
 ---
 
-![Wheatley8](WheatleyImages/HardCashCover.jpg)
+![HardCashCover](WheatleyImages/HardCashCover.jpg)
 ---
 
 ![Wheatley9](WheatleyImages/image4.png)
