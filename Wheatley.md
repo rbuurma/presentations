@@ -60,7 +60,7 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-![HardCashCover](WheatleyImages/HardCashCover.jpg)
+![HardCashCover](WheatleyImages/HardCashCover.jpeg)
 ---
 
 ![FoundedonStatistics](WheatleyImages/image4.JPG)
