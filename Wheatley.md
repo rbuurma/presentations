@@ -60,10 +60,10 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-![HardCashCover](WheatleyImages/HardCashCover.jpg)
+![HardCashCover](WheatleyImages/HardCashCove.jpg)
 ---
 
-![Wheatley9](WheatleyImages/image4.png)
+![FoundedonStatistics](WheatleyImages/image4.JPG)
 
 ---
 
