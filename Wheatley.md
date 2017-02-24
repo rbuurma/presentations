@@ -60,33 +60,33 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-
+![Wheatley8](WheatleyImages/HardCashCover.jpg)
 ---
 
 ![Wheatley9](WheatleyImages/image4.png)
 
 ---
 
-![Wheatley10](WheatleyImages/image10.png)
+![Wheatley10](WheatleyImages/image5.png)
 
 ---
 
-![Wheatley11](WheatleyImages/image11.png)
+![Wheatley11](WheatleyImages/image6.png)
 ---
 
-![Wheatley12](WheatleyImages/image12.png)
-
----
-
-![Wheatley13](WheatleyImages/image13.jpg)
+![Wheatley12](WheatleyImages/image7.jpg)
 
 ---
 
-![Wheatley14](WheatleyImages/image14.png)
+![Wheatley13](WheatleyImages/image8.jpg)
 
 ---
 
-![Wheatley15](WheatleyImages/image15.png)
+![Wheatley14](WheatleyImages/image9.png)
+
+---
+
+![Wheatley15](WheatleyImages/image10.png)
 
 ---
 
