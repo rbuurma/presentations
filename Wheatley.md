@@ -3,16 +3,18 @@
 
 ---
 
-## Henry Wheatley's General Index, Charles Reade’s Personal Indices: 
+### Henry Wheatley's General Index, Charles Reade's Personal Indices: 
 ### Knowledge Organization, Fictional Representation, and Information Utopianism in the 1870s
 
 <small>Follow along at [rbuurma.github.io/presentations/Wheatley.html](http://theotherdh.com/presentations/Wheatley.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
+<br>
+<br><small>[rachelsagnerbuurma.org](http://rachelsagnerbuurma.org)</small>
 
 ---
 
-If you have urgent questions while I'm speaking, feel free to
+If you have an urgent question while I'm speaking, do feel free to
 
 ![raiseyourhand](dograisinghand.gif)
 
@@ -54,11 +56,14 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-![Wheatley8](WheatleyImages/image8.jpg)
+![Wheatley8](WheatleyImages/ReadePortrait.jpg)
 
 ---
 
-![Wheatley9](WheatleyImages/image9.png)
+
+---
+
+![Wheatley9](WheatleyImages/image4.png)
 
 ---
 
