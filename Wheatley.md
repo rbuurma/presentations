@@ -31,7 +31,11 @@ If you have urgent questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley4](WheatleyImages/image14.JPG)
+![Wheatley3](WheatleyImages/AlwaysGrowing.png)
+
+---
+
+![Wheatley4](WheatleyImages/image14.png)
 
 ---
 
@@ -44,7 +48,7 @@ If you have urgent questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley7](WheatleyImages/image17.jpg)
+![Wheatley7](WheatleyImages/image17.png)
 
 from John McVey http://jmcvey.net/rerum/index.htm
 
