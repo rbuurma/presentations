@@ -18,7 +18,7 @@ If you have urgent questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley1](WheatleyImages/WhatIndexTP.pdf)
+![Wheatley1](WheatleyImages/WheatleyTP.png)
 
 ---
 
@@ -27,31 +27,26 @@ If you have urgent questions while I'm speaking, feel free to
 
 ---
 
-![Wheatley3](WheatleyImages/image3.png)
+![Wheatley3](WheatleyImages/Impossibility.png)
 
 ---
 
-![Wheatley4](WheatleyImages/image4.JPG)
+![Wheatley4](WheatleyImages/image14.JPG)
 
 ---
 
-![Wheatley5](WheatleyImages/image5.png)
+![Wheatley5](WheatleyImages/image15.png)
+
 
 ---
 
-## some heading
+![Wheatley6](WheatleyImages/image16.png)
 
 ---
 
-![Wheatley6](WheatleyImages/image6.png)
+![Wheatley7](WheatleyImages/image17.jpg)
 
----
-
-> some text
-
----
-
-![Wheatley7](WheatleyImages/image7.jpg)
+from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
