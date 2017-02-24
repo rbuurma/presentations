@@ -86,27 +86,27 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-![Wheatley15](WheatleyImages/image10.png)
+![notecard example](WheatleyImages/image10.png)
 
 ---
 
-![Wheatley16](WheatleyImages/image16.png)
+![Janebignotecard](WheatleyImages/image11.png)
 
 ---
 
-![Wheatley17](WheatleyImages/image17.png)
+![JaneCloseUp](WheatleyImages/image12.png)
 
 ---
 
-![Wheatley18](WheatleyImages/image18.jpg)
+![pettyindex](WheatleyImages/image18.jpg)
 
 ---
 
-![Wheatley19](WheatleyImages/image19.jpg)
+![masterindex](WheatleyImages/image19.jpg)
 
 ---
 
-![Wheatley20](WheatleyImages/image20.png)
+![indexadindices](WheatleyImages/image20.png)
 
 ---
 
@@ -130,7 +130,7 @@ from John McVey http://jmcvey.net/rerum/index.htm
 
 ---
 
-<section data-background="eniacwomen.jpg"></section>
+<section data-background="BuurmaImage2.jpg">
 ## fin fin fin
 
 ---
