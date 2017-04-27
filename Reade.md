@@ -4,7 +4,7 @@
 
 ### The Preparation of the Novel and the Preparation of the Topic Model
 
-<small>Follow along at [rbuurma.github.io/presentations/Reade.html](http://theotherdh.com/presentations/Wheatley.html)</small>
+<small>Follow along at [rbuurma.github.io/presentations/Reade.html](rbuurma.github.io/presentations/Reade.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 <br>
