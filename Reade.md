@@ -127,7 +127,7 @@ George Orwell, “Charles Reade,” 1940
 
 ---
 
-![Top words in notecards](WheatleyImages/notecard-counts.png)
+![Top words in notecards](WheatleyImages/Notecards-counts.png)
 
 ---
 
@@ -191,14 +191,6 @@ George Orwell, “Charles Reade,” 1940
 ---
 
 ![Wheatley](WheatleyImages/AlwaysGrowing.png)
-
----
-
-![Preface](WheatleyImages/image15.png)
-
----
-
-![Appendix](WheatleyImages/image16.png)
 
 ---
 
