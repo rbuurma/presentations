@@ -195,6 +195,10 @@ George Orwell, “Charles Reade,” 1940
 
 ---
 
+### Reading Computational Text Analysis with Roland Barthes
+
+---
+
 > Replacing "How something is made, with a view to finding out what it is" with "How something is made, with a view to making it again" - the Essence with the Preparation - is linked to an option that's completely antiscientific: in reality, the starting point of the Fantasy [of the critic's writing of a novel] isn't the Novel (in general, as a genre), but one or two novels out of thousands.
 
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
