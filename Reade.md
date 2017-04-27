@@ -209,6 +209,12 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
 ---
 
+> makes the model fully generative, which meansm in a computer-science context, that it offers a complete mathematical description of the process by which the input texts were (hypothetically) generated, including a way of determining the probabilities of specific outcomes. The generative model underlying LDA is something like this: first, the writer picks a "mixture" of topics to write about; then the writer constructs the text word-by-word by first randomly choosing a topic from the mixture and then picking a word based on the probability table for that topic.  
+
+Jeffrey M. Binder, [Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69)
+
+---
+
 For more on topic modeling, I recommend:
 
 Megan Bret, [Topic Modeling: a Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
@@ -220,8 +226,6 @@ David Blei, [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers
 David Mimno, [The Details](https://vimeo.com/53080123)
 
 Lisa Rhody, [Topic Modeling and Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
-
-Jeffrey M. Binder, [Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69)
 
 Play with this [corpus of American State of the Union presidential speeches in this in-browser topic modeling browser made by David Mimno](https://mimno.infosci.cornell.edu/jsLDA/jslda.html).
 
