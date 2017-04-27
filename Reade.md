@@ -47,11 +47,11 @@ Wide-ranging and yet very incomplete list of references to work on research and 
 
 + Devin Griffiths's *The Age of Analogy: Science and Literature between the Darwins*
 
- + Work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, and Lisa Gitelman's  and especially to
++ Work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, and Lisa Gitelman's  and especially to
 
- + Simon Reader's work on the aesthetics of Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
++ Simon Reader's work on the aesthetics of Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
 
- + Sierra Eckert's in-progress work on the long history of literature and indexing.
++ Sierra Eckert's in-progress work on the long history of literature and indexing.
 
 + Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
 
