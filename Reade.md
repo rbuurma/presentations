@@ -12,19 +12,18 @@
 
 ---
 
-## Rereading Victorian Realism with Roland Barthes
+### Rereading Victorian Realism with Roland Barthes
 
 ---
 
-> Replacing “How something is made, with a view to finding out what it is” with “How something is made, with a view to making it again” – the Essence with the Preparation – is linked to an option that’s completely antiscientific: in reality, the starting point of the Fantasy [of the critic’s writing of a novel] isn’t the Novel (in general, as a genre), but one or two novels out of thousands.
+> Replacing "How something is made, with a view to finding out what it is" with "How something is made, with a view to making it again" – the Essence with the Preparation – is linked to an option that’s completely antiscientific: in reality, the starting point of the Fantasy [of the critic’s writing of a novel] isn’t the Novel (in general, as a genre), but one or two novels out of thousands.
 
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
 ---
 
-> 1. In its most elevated conception (Dante Mallarmé, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the “architectural and premeditated” Book is to conceive of and to want One universe, one that’s structured, hierarchically ordered…
-
-> 2. In its way, the Album represents the opposite: a universe that is not-one, not-ordered, scattered, a pure interweaving of contingences, with no transcendence…
+> 1. In its most elevated conception (Dante, Mallarme, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the “architectural and premeditated” Book is to conceive of and to want One universe, one that's structured, hierarchically ordered…
+> 2. In its way, the Album represents the opposite: a universe that is not-one, not-ordered, scattered, a pure interweaving of contingencies, with no transcendence.
 
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
@@ -36,29 +35,26 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 Wide-ranging and yet very incomplete list of references to work on research and reference in fiction:
 
-Buurma and Heffernan, [Notation After “The Reality Effect”: Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
++ Buurma and Heffernan, [Notation After “The Reality Effect”: Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
 
-*Representations* special issue ["Denotatively, Technically, Literally"]() edited by Elaine Freedgood and Canon Schmidt, and including essays by Canon Schmidt, Elaine Freedgood, Ian Duncan, and Margaret Cohen
++ *Representations* special issue ["Denotatively, Technically, Literally"]() edited by Elaine Freedgood and Canon Schmidt, and including essays by Canon Schmidt, Elaine Freedgood, Ian Duncan, and Margaret Cohen
 
-Deidre Lynch, *Loving Literature: A Cultural History*
++ Deidre Lynch, *Loving Literature: A Cultural History*
 
-Leah Price, *The Anthology and the Rise of the Novel*
++ Leah Price, *The Anthology and the Rise of the Novel*
 
-Susan David Bernstein's *Roomscape: Women Writers in the British Museum from George Eliot to Virginia Woolf*
++ Susan David Bernstein's *Roomscape: Women Writers in the British Museum from George Eliot to Virginia Woolf*
 
-Devin Griffiths's *The Age of Analogy: Science and Literature between the Darwins*
++ Devin Griffiths's *The Age of Analogy: Science and Literature between the Darwins*
 
- Work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, and Lisa Gitelman's  and especially to
+ + Work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, and Lisa Gitelman's  and especially to
 
- Simon Reader's work on the aesthetics of Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
+ + Simon Reader's work on the aesthetics of Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
 
- Sierra Eckert's in-progress work on the long history of literature and indexing.
+ + Sierra Eckert's in-progress work on the long history of literature and indexing.
 
-Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
++ Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
 
----
-
-![ReadePortrait](WheatleyImages/ReadePortrait.jpg)
 
 ---
 
@@ -74,7 +70,8 @@ Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
 seaport, Barkington, there lived a few years ago a happy family. A
 lady, middle-aged, but still charming; two young friends of hers; and a
 periodical visitor.
-
+<br>
+<br>
 > The lady was Mrs. Dodd; her occasional visitor was her husband; her
 friends were her son Edward, aged twenty, and her daughter Julia,
 nineteen, the fruit of a misalliance.
@@ -87,19 +84,19 @@ Charles Reade, *Hard Cash*, first page
 
 ---
 
-> But the point for us is…the way in which the novel – once a light and almost a frivolous thing – had come to be taken with the utmost seriousness – had in fact ceased to be light literature at all, and begun to require rigorous and elaborate training and preparation in the writer, perhaps even something of the athlete’s processes in the reader. Fielding himself took novel-writing by no means lightly, and Richardson still less so: but imagine either, imagine Scott or even Miss Austen, going through the preliminary processes which seemed necessary, in different ways, to Charles Reade and to Mary Ann Evans!
+> But the point for us is the way in which the novel – once a light and almost a frivolous thing – had come to be taken with the utmost seriousness – had in fact ceased to be light literature at all, and begun to require rigorous and elaborate training and preparation in the writer, perhaps even something of the athletes's processes in the reader. Fielding himself took novel-writing by no means lightly, and Richardson still less so: but imagine either, imagine Scott or even Miss Austen, going through the preliminary processes which seemed necessary, in different ways, to Charles Reade and to Mary Ann Evans!
 
 George Saintsbury, The History of English Literature, 1913
 
 ---
 
-> …it is the charm of useless knowledge. Reade was a man of what one might call penny-encyclopaedic learning. He possessed vast stocks of disconnected information which a lively narrative gift allowed him to cram into books which would at any rate pass as novels. If you have the sort of mind that takes a pleasure in dates, lists, catalogues, concrete details, descriptions of processes, junk-shop windows and back numbers of the Exchange and Mart, the sort of mind that likes knowing exactly how a medieval catapult worked or just what objects a prison cell of the eighteen-forties contained, then you can hardly help enjoying Reade. He himself, of course, did not see his work in quite this light. He prided himself on his accuracy and compiled his books largely from newspaper cuttings, but the strange facts which he collected were subsidiary to what he would have regarded as his 'purpose'. For he was a social reformer in a fragmentary way, and made vigorous attacks on such diverse evils as blood-letting, the treadmill, private asylums, clerical celibacy and tight-lacing.
+>It is the charm of useless knowledge. Reade was a man of what one might call penny-encyclopaedic learning. He possessed vast stocks of disconnected information which a lively narrative gift allowed him to cram into books which would at any rate pass as novels. If you have the sort of mind that takes a pleasure in dates, lists, catalogues, concrete details, descriptions of processes, junk-shop windows and back numbers of the Exchange and Mart, the sort of mind that likes knowing exactly how a medieval catapult worked or just what objects a prison cell of the eighteen-forties contained, then you can hardly help enjoying Reade.
 
 George Orwell, “Charles Reade,” 1940
 
 ---
 
-## Charles Reade’s Research
+### Charles Reade's Research
 
 ---
 
@@ -194,7 +191,7 @@ George Orwell, “Charles Reade,” 1940
 
 ---
 
-> Replacing “How something is made, with a view to finding out what it is” with “How something is made, with a view to making it again” – the Essence with the Preparation – is linked to an option that’s completely antiscientific: in reality, the starting point of the Fantasy [of the critic’s writing of a novel] isn’t the Novel (in general, as a genre), but one or two novels out of thousands.
+> Replacing "How something is made, with a view to finding out what it is" with "How something is made, with a view to making it again" – the Essence with the Preparation – is linked to an option that’s completely antiscientific: in reality, the starting point of the Fantasy [of the critic’s writing of a novel] isn’t the Novel (in general, as a genre), but one or two novels out of thousands.
 
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
@@ -202,7 +199,7 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
 ![Hard Cash topic key](WheatleyImages/HC-topickey-2016.png)
 
- ---
+---
 
 ![Hard Cash topic key](WheatleyImages/HC-topic-comp-2016.png)
 
