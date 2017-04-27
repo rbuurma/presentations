@@ -35,7 +35,7 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 Wide-ranging and yet very incomplete list of references to work on research and reference in fiction:
 
-+ Buurma and Heffernan, [Notation After “The Reality Effect”: Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
++ Buurma and Heffernan, [Notation After "The Reality Effect": Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
 
 + *Representations* special issue ["Denotatively, Technically, Literally"]() edited by Elaine Freedgood and Canon Schmidt, and including essays by Canon Schmidt, Elaine Freedgood, Ian Duncan, and Margaret Cohen
 
@@ -55,6 +55,10 @@ Wide-ranging and yet very incomplete list of references to work on research and 
 
 + Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
 
+
+---
+
+### Charles Reade, Hard Cash and the Canon
 
 ---
 
