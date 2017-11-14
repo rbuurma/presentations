@@ -12,15 +12,18 @@ section data-background="BuurmaImage2.jpg"></section>
 
 ---
 
-<section style="text-align: left;">Replacing "How something is made, with a view to finding out what it is" with "How something is made, with a view to making it again" - the Essence with the Preparation - is linked to an option that's completely antiscientific: in reality, the starting point of the Fantasy [of the critic’s writing of a novel] isn't the Novel (in general, as a genre), but one or two novels out of thousands.
-
+<section style="text-align: left;">Replacing "How something is made, with a view to finding out what it is" with "How something is made, with a view to making it again" - the Essence with the Preparation - is linked to an option that's completely antiscientific: in reality, the starting point of the Fantasy [of the critic's writing of a novel] isn't the Novel (in general, as a genre), but one or two novels out of thousands.
+<br>
+<br>
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
 ---
 
-> 1. In its most elevated conception (Dante, Mallarme, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the “architectural and premeditated” Book is to conceive of and to want One universe, one that's structured, hierarchically ordered…
-> 2. In its way, the Album represents the opposite: a universe that is not-one, not-ordered, scattered, a pure interweaving of contingencies, with no transcendence.
-
+<section style="text-align: left;">1. In its most elevated conception (Dante, Mallarme, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the "architectural and premeditated" Book is to conceive of and to want One universe, one that's structured, hierarchically ordered…
+<br>
+2. In its way, the Album represents the opposite: a universe that is not-one, not-ordered, scattered, a pure interweaving of contingencies, with no transcendence.
+<br>
+<br>
 Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 ---
@@ -29,7 +32,7 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 ---
 
-Very incomplete list of references to work on research and reference, especially in relation to fiction:
+<section style="text-align: left;">Very incomplete list of references to work on research and reference, especially in relation to fiction:
 
 + Buurma and Heffernan, [Notation After "The Reality Effect": Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
 
@@ -41,11 +44,11 @@ Very incomplete list of references to work on research and reference, especially
 
 + Susan David Bernstein's *Roomscape: Women Writers in the British Museum from George Eliot to Virginia Woolf*
 
-+ Simon Reader's work on the aesthetics of Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
++ Simon Reader's Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
 
 + [Sierra Eckert's](https://sceckert.github.io/) in-progress work on the nineteenth-century archival imagination.
 
-+ Anna Gibson’s [Dickens Notes Project](http://dickensnotes.com/).
++ Anna Gibson's [Dickens Notes Project](http://dickensnotes.com/).
 
 + And lots of work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, Lisa Gitelman's *Paper Knowledge*...
 
@@ -114,7 +117,7 @@ Very incomplete list of references to work on research and reference, especially
 
 ---
 
-In a snowy villa, with a sloping lawn, just outside the great commercial
+<section style="text-align: left;">In a snowy villa, with a sloping lawn, just outside the great commercial
 seaport, Barkington, there lived a few years ago a happy family. A
 lady, middle-aged, but still charming; two young friends of hers; and a
 periodical visitor.
@@ -152,11 +155,11 @@ Charles Reade, *Hard Cash*, first page
 
 ---
 
-![Hard Cash Preface](HardCashPreface.png)
+![Hard Cash Preface](WheatleyImages/HardCashPreface.png)
 
 ---
 
-![Hard Cash Appendix](HardCashAppendix.png)
+![Hard Cash Appendix](WheatleyImages/HardCashAppendix.png)
 
 ---
 
