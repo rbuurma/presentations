@@ -1,4 +1,4 @@
-section data-background="BuurmaImage2.jpg"></section>
+<section data-background="BuurmaImage2.jpg"></section>
 
 ---
 
