@@ -19,7 +19,8 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 13
 
 ---
 
-<section style="text-align: left;">1. In its most elevated conception (Dante, Mallarme, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the "architectural and premeditated" Book is to conceive of and to want One universe, one that's structured, hierarchically ordered…
+<section style="text-align: left;">1. In its most elevated conception (Dante, Mallarme, Proust), The Book is a representation of the universe; the book is homologous to the world. To want the "architectural and premeditated" Book is to conceive of and to want One universe, one that's structured, hierarchically ordered.
+<br>
 <br>
 2. In its way, the Album represents the opposite: a universe that is not-one, not-ordered, scattered, a pure interweaving of contingencies, with no transcendence.
 <br>
