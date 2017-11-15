@@ -33,29 +33,6 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 ---
 
-<section style="text-align: left;">Very incomplete list of references to work on research and reference, especially in relation to fiction:
-
-+ Buurma and Heffernan, [Notation After "The Reality Effect": Remaking Reference with Roland Barthes and Sheila Heti](http://works.swarthmore.edu/cgi/viewcontent.cgi?article=1171&context=fac-english-lit)
-
-+ *Representations* special issue "Denotatively, Technically, Literally" edited by Elaine Freedgood and Canon Schmidt, and including essays by Canon Schmidt, Elaine Freedgood, Ian Duncan, and Margaret Cohen
-
-+ Deidre Lynch, *Loving Literature: A Cultural History*
-
-+ Leah Price, *The Anthology and the Rise of the Novel*
-
-+ Susan David Bernstein's *Roomscape: Women Writers in the British Museum from George Eliot to Virginia Woolf*
-
-+ Simon Reader's Victorian writers'notebooks, including [Social Notes: Oscar Wilde, Francis Bacon, and the Medium of Aphorism](http://www.tandfonline.com/doi/abs/10.1080/13555502.2013.860394)
-
-+ [Sierra Eckert's](https://sceckert.github.io/) in-progress work on the nineteenth-century archival imagination.
-
-+ Anna Gibson's [Dickens Notes Project](http://dickensnotes.com/).
-
-+ And lots of work on histories of knowledge organization including Ann Blair's *Too Much To Know*, Ronald Day's *Indexing It All*, Lisa Gitelman's *Paper Knowledge*...
-
-
----
-
 ![Folio example - Sala Details](WheatleyImages/image7.jpg)
 
 ---
@@ -98,10 +75,6 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 ---
 
-![HC research remembering](WheatleyImages/image8.jpg)
-
----
-
 ![Mrs Dodd](WheatleyImages/image9.png)
 
 ---
@@ -115,20 +88,6 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 ---
 
 ![JaneCloseUp](WheatleyImages/image12.png)
-
----
-
-<section style="text-align: left;">In a snowy villa, with a sloping lawn, just outside the great commercial
-seaport, Barkington, there lived a few years ago a happy family. A
-lady, middle-aged, but still charming; two young friends of hers; and a
-periodical visitor.
-<br>
-<br>
-The lady was Mrs. Dodd; her occasional visitor was her husband; her
-friends were her son Edward, aged twenty, and her daughter Julia,
-nineteen, the fruit of a misalliance.
-
-Charles Reade, *Hard Cash*, first page
 
 ---
 
@@ -153,6 +112,10 @@ Charles Reade, *Hard Cash*, first page
 ---
 
 ![Bankson stats](WheatleyImages/Bankson-stats.png)
+
+---
+
+![HC research remembering](WheatleyImages/image8.jpg)
 
 ---
 
