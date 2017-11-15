@@ -95,14 +95,6 @@ Roland Barthes, The Preparation of the Novel, Session of December 9, 1978, 189
 
 ---
 
-![Top words in notecards](WheatleyImages/Notecards-counts.png)
-
----
-
-![Top words in Hard Cash](WheatleyImages/HC-counts.png)
-
----
-
 ![Bankson subjects](WheatleyImages/Bankson-subjects.png)
 
 ---
