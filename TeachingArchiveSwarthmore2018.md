@@ -73,15 +73,15 @@ Hampton Bulletin, May 1941 (Course Catalog for 1941-42)
 
 ---
 
-![Redding Novel Notes](ReddingNovelNotes.png)
+![Redding Novel Notes](ReddingAutobiographyNotes.png)
 
 ---
 
-![Miles Tabular Detail](MilesTabularDetail.png)
+![Miles Tabular Detail](MilesTabularDetail.jpg)
 
 ---
 
-![Miles Counts](MilesWordsThing.png)
+![Miles Counts](MilesWordsThing.jpg)
 
 ---
 
