@@ -4,6 +4,8 @@
 
 ### The Teaching Archive: 
 a new history of literary study
+<br>
+<br>
 #### some snapshots
 
 
