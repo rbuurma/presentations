@@ -10,7 +10,6 @@
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 <br>
-<br><small>[rachelsagnerbuurma.org](http://rachelsagnerbuurma.org)</small>
 <br><small>Laura Heffernan, Department of English, University of North Florida [@LAHeffernan](http://twitter.com/LAHeffernan)</small>
 
 ---
