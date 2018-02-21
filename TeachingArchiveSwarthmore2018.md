@@ -17,6 +17,10 @@ a new history of literary study
 
 ---
 
+### Caroline Spurgeon at Bedford Women's College
+
+---
+
 ![Rickert notebooks](RickertNotebooks.jpg)
 
 ---
@@ -26,6 +30,10 @@ a new history of literary study
 ---
 
 ![Rickert cards](RickertCards.jpg)
+
+---
+
+### I.A. Richards at Cambridge
 
 ---
 
@@ -41,11 +49,19 @@ a new history of literary study
 
 ---
 
+### Edith Rickert at the University of Chicago
+
+---
+
 ![NewMethodsTitle](NewMethodsTitle.jpg)
 
 ---
 
 ![NewMethodsPages](NewMethodsPages.jpg)
+
+---
+
+### T.S. Eliot at the University of London Extension School
 
 ---
 
@@ -58,6 +74,10 @@ a new history of literary study
 ---
 
 ![Eliot third year](EliotThirdYear.jpg)
+
+---
+
+### J. Saunders Redding at Hampton and Cornell
 
 ---
 
@@ -74,6 +94,10 @@ Hampton Bulletin, May 1941 (Course Catalog for 1941-42)
 ---
 
 ![Redding Novel Notes](ReddingAutobiographyNotes.png)
+
+---
+
+### Josephine Miles at Berkeley
 
 ---
 
