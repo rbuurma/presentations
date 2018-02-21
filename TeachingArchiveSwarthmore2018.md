@@ -2,11 +2,12 @@
 
 ---
 
-### The Teaching Archive: a new history of literary study
-#### a handful of images and ideas
+### The Teaching Archive: 
+a new history of literary study
+#### some snapshots
 
 
-<small>Follow along at [rbuurma.github.io/presentations/TeachingArchiveSwarthmore2018.html](rbuurma.github.io/presentations/Reade2017.html)</small>
+<small>Follow along at [rbuurma.github.io/presentations/TeachingArchiveSwarthmore2018.html](rbuurma.github.io/presentations/TeachingArchiveSwarthmore2018.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 <br>
