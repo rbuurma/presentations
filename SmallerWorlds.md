@@ -40,7 +40,7 @@ Henry Wheatley, What Is An Index?, 40.
 
 ---
 
-![Barset Letter Topic][(BarsetLetterTopic.png)]
+![Barset Letter Topic][BarsetLetterTopic.png]
 
 Run it yourself here:
 http://rachelsagnerbuurma.org/Barsetshire/topics.html
