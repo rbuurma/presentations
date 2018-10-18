@@ -2,7 +2,7 @@ section data-background="BuurmaImage2.jpg"></section>
 
 ---
 
-### Smaller Worlds:
+### Smaller Worlds: totality, extensibility, and the series novel
 
 <small>Slides at [rbuurma.github.io/presentations/SmallerWorlds.html](rbuurma.github.io/presentations/SmallerWorlds.html)</small>
 <br>
@@ -28,9 +28,9 @@ Anthony Trollope's Barseshire Chronicles:
 
 ---
 
-And now, if the reader will allow me to seize him affectionately by the arm, we will together take our last farewell of Barset and of the towers of Barchester. I may not venture to say to him that, in this country, he and I together have wandered often through the country lanes, and have ridden together over the too-well wooded fields, or have stood together in the cathedral nave listening to the peals of the organ, or have together sat at good men’s tables, or have confronted together the pride of men who were not good. I may not boast that any besides myself have so realized the place, and the people, and the facts, as to make such reminiscences possible as those which I should attempt to evoke by an appeal to perfect fellowship.”
+And now, if the reader will allow me to seize him affectionately by the arm, we will together take our last farewell of Barset and of the towers of Barchester. I may not venture to say to him that, in this country, he and I together have wandered often through the country lanes, and have ridden together over the too-well wooded fields, or have stood together in the cathedral nave listening to the peals of the organ, or have together sat at good men's tables, or have confronted together the pride of men who were not good. I may not boast that any besides myself have so realized the place, and the people, and the facts, as to make such reminiscences possible as those which I should attempt to evoke by an appeal to perfect fellowship.
 
-Anthony Trollope, The Last Chronicle of Barset, final paragrph.
+Anthony Trollope, *The Last Chronicle of Barset*, final paragrph.
 
 ---
 
