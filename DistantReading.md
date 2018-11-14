@@ -1,15 +1,17 @@
-section data-background="BuurmaImage2.jpg"></section>
+<section data-background="BuurmaImage2.jpg"></section>
 
 ---
 
 ### What Was Distant Reading?
 
-<small>Slides at [rbuurma.github.io/presentations/SmallerWorlds.html](rbuurma.github.io/presentations/SmallerWorlds.html)</small>
 <br>
 <br><small>Rachel Sagner Buurma, Department of English Literature, Swarthmore College [@rbuurma](http://twitter.com/rbuurma)</small>
 <br>
 <br><small>Laura Heffernan, Department of English Literature, University of North Florida [@LAHeffernan](http://twitter.com/rbuurma)</small>
-
+<br>
+<br>
+<br>
+<small>Slides at [rbuurma.github.io/presentations/SmallerWorlds.html](rbuurma.github.io/presentations/DistantReading.html)</small>
 
 ---
 
@@ -25,10 +27,6 @@ section data-background="BuurmaImage2.jpg"></section>
 
 ---
 
-![New Methods Color Pie Chart](NMPieColors.png)
-
----
-
 ![New Methods Image Chart](NMImageChart.png)
 
 ---
@@ -39,11 +37,11 @@ section data-background="BuurmaImage2.jpg"></section>
 
 ![New Methods Merrick Lines](NMMerrickLines.png)
 
---
+---
 
 ![New Methods Twain Lines](NMTwainLines.png)
 
---
+---
 
 ### Caroline Spurgeon (1869-1942)
 
@@ -55,7 +53,7 @@ section data-background="BuurmaImage2.jpg"></section>
 
 ![Shakespeare's Imagery Images Chart](SIChart1.png)
 
---
+---
 
 ### Josephine Miles (1911-1985)
 
