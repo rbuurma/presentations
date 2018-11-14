@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<small>Slides at [rbuurma.github.io/presentations/SmallerWorlds.html](rbuurma.github.io/presentations/DistantReading.html)</small>
+<small>Slides at [rbuurma.github.io/presentations/DistantReading.html](rbuurma.github.io/presentations/DistantReading.html)</small>
 
 ---
 
@@ -95,7 +95,7 @@ Josephine Miles, *The Continuity of Poetic Language.* University of California P
 
 Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism.* University of Illinois Press, 2011.
 
-Edith Ricert, *New Methods for the Study of Literature.* Chicago: The University of Chicago Press, 1927.
+Edith Rickert, *New Methods for the Study of Literature.* Chicago: The University of Chicago Press, 1927.
 
 Caroline Spurgeon, *Shakespeare's Imagery and What It Tells Us.* London: Cambridge University Press, 1935.
 
