@@ -59,14 +59,6 @@
 
 ---
 
-![Miles 1640s Majority Vocab](Miles1640sMajority.jpg)
-
----
-
-![Miles 1640s Minority Vocab](Miles1640sMinority.jpg)
-
----
-
 ![Miles 1740s Majority Vocabulary Manuscript](Miles1740MajorMS.jpg)
 
 ---
@@ -79,7 +71,15 @@
 
 ---
 
-### Works Cited:
+![Miles 1640s Majority Vocab](Miles1640sMajority.jpg)
+
+---
+
+![Miles 1640s Minority Vocab](Miles1640sMinority.jpg)
+
+---
+
+### Works Cited
 
 Sarah Allison, *Reductive Reading: A Syntax of Victorian Moralizing*. Baltimore: Johns Hopkins University Press, 2018.
 
@@ -87,12 +87,17 @@ Rachel Sagner Buurma and Laura Heffernan, "Search and Replace: Josephine Miles a
 
 https://modernismmodernity.org/forums/posts/search-and-replace
 
+Josephine Miles, *The Continuity of Poetic Language.* University of California Press, 1951.
 
-Jay Jin, "Problems of Scale in 'Close' and 'Distant' Reading." Philological Quarterly 96.1 (2017)
+Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism.* University of Illinois Press, 2011.
 
-Ted Underwood, David Bamman, and Sabrina Lee, "The Transformation of Gender in English-Language Fiction," Journal of Cultural Analytics. Feb. 13, 2018. DOI: 10.31235/osf.io/fr9bk
+Edith Ricert, *New Methods for the Study of Literature.* Chicago: The University of Chicago Press, 1927.
 
+Caroline Spurgeon, *Shakespeare's Imagery and What It Tells Us.* London: Cambridge University Press, 1935.
 
+Ted Underwood, "Distant Reading and Recent Intellectual History" in *Debates in DH*, edited by Matt Gold and Lauren Klein, 2016.
+
+http://dhdebates.gc.cuny.edu/debates/text/95
 ---
 
 <small>[Link to Sources for Images]()</small>
