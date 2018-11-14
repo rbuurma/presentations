@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<small>Slides at [rbuurma.github.io/presentations/SmallerWorlds.html](rbuurma.github.io/presentations/DistantReading.html)</small>
+<small>Slides at [rbuurma.github.io/presentations/DistantReading.html](rbuurma.github.io/presentations/DistantReading.html)</small>
 
 ---
 
@@ -59,6 +59,10 @@
 
 ---
 
+> Then I developed a whole theory that I wanted to follow out, the one of major language. Then I just had a built-in job to do every summer. I sat on the patio with my little beat-up traveling typewriter that had only three banks of keys, and typed out these studies of the language of the poets of the 1640s, 1740s, and so on. These were good for getting - I wanted something too, not only that I liked to do, that I could sit outside with and enjoy, but also that students could help with so that they could get support grant money and this kind of analysis of language they could do. Over the years, in fear and trembling, I've gone back and checked whether they did it well, and on the whole I’m sure there are terrible errors still but on the whole they did beautifully. They were responsible and good people. I just did that until about 1951, I guess; for about a decade I did that, and then additions through the sixties.
+
+---
+
 ![Miles 1740s Majority Vocabulary Manuscript](Miles1740MajorMS.jpg)
 
 ---
@@ -91,7 +95,7 @@ Josephine Miles, *The Continuity of Poetic Language.* University of California P
 
 Stephen Ramsay, *Reading Machines: Toward an Algorithmic Criticism.* University of Illinois Press, 2011.
 
-Edith Ricert, *New Methods for the Study of Literature.* Chicago: The University of Chicago Press, 1927.
+Edith Rickert, *New Methods for the Study of Literature.* Chicago: The University of Chicago Press, 1927.
 
 Caroline Spurgeon, *Shakespeare's Imagery and What It Tells Us.* London: Cambridge University Press, 1935.
 
